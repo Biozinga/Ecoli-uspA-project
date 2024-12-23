@@ -1,0 +1,9 @@
+>Motif avec le taux de fold change le plus élevé
+AACGCCTTATCCGGCCTACA
+
+>Motif le plus proche du gène
+GTAGGCCTGATAAGCGTAGCGCATCAGGC
+
+>Motif ayant la longueur la plus élevée
+TGCCGGATGCGGCGTGAACGCCTTATCCGGCCTAC
+
